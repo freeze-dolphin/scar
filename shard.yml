@@ -12,7 +12,7 @@ crystal: 1.4.1
 dependencies:
   crsfml:
     github: oprypin/crsfml
-    branch: ~> 2.5.2
+    version: ~> 2.5.2
   zstd:
     github: didactic-drunk/zstd.cr
 
